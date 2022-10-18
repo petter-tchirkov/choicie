@@ -1,0 +1,139 @@
+@mixin h1 {
+  font-size: 52px;
+  line-height: 64px;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+@mixin h2 {
+  font-size: 36px;
+  line-height: 52px;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+@mixin h3 {
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+@mixin h4 {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+@mixin body-l {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+@mixin body-l-medium {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+@mixin body-l-bold {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+@mixin body-m {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+@mixin body-m-medium {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+@mixin body-m-semibold {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+@mixin body-m-bold {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+@mixin body-s {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+@mixin body-s-medium {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+@mixin body-s-bold {
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+@mixin body-xs {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+@mixin body-xs-medium {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+@mixin body-xs-bold {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+@mixin button-m {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+@mixin button-s {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+@mixin button-xs {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+}
